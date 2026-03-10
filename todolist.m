@@ -4,9 +4,9 @@
 - **Company Name:** Dom Immo Services and Consulting Sarl - Domisc Sarl
 - **Directory:** dom_immo_services_and_consulting_sarl_domisc_sarl
 - **Address/Contact:** 
-  - Gestion immobili�re, proc�dure fonci�re, BTP, Montage des projets, prestations de services, commerce g�n�ral.
+  - Gestion immobiliére, procédure fonciére, BTP, Montage des projets, prestations de services, commerce général.
   - 
-  - Page � Immobilier
+  - Page é Immobilier
   - 
   - B.P. 1365 Douala - Bonanjo, Douala, Cameroon
   - 
